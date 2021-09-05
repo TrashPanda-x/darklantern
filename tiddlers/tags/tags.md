@@ -1,0 +1,1 @@
+Folder for generated category/tag tiddlers.
